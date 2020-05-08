@@ -1,4 +1,4 @@
-# Machine Learning cardiac pathology detection via Machine Learning
+# Cardiac pathology detection via Machine Learning
 
 
 
