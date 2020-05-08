@@ -1,0 +1,22 @@
+2020-05-08 16:23:53.001 INFO generate_model - run: Running generate_model.py
+2020-05-08 16:23:53.001 INFO generate_model - run: Current working directory: C:\Users\Carlos\Downloads\radiomic_extraction
+2020-05-08 16:23:53.001 INFO generate_model - run: classifier logistic_regression
+2020-05-08 16:23:53.001 INFO generate_model - run: max_features 10
+2020-05-08 16:23:53.001 INFO generate_model - run: n_folds 5
+2020-05-08 16:23:53.002 INFO generate_model - run: file_dataset None not found, loading dummy dataset
+2020-05-08 16:23:53.025 INFO generate_model - run: Performing analysis with the 1 best features
+2020-05-08 16:23:53.067 INFO generate_model - run: Performing analysis with the 2 best features
+2020-05-08 16:23:53.099 INFO generate_model - run: Performing analysis with the 3 best features
+2020-05-08 16:23:53.134 INFO generate_model - run: Performing analysis with the 4 best features
+2020-05-08 16:23:53.174 INFO generate_model - run: Performing analysis with the 5 best features
+2020-05-08 16:23:53.211 INFO generate_model - run: Performing analysis with the 6 best features
+2020-05-08 16:23:53.249 INFO generate_model - run: Performing analysis with the 7 best features
+2020-05-08 16:23:53.288 INFO generate_model - run: Performing analysis with the 8 best features
+2020-05-08 16:23:53.327 INFO generate_model - run: Performing analysis with the 9 best features
+2020-05-08 16:23:53.368 INFO generate_model - run: Optimal number of features found: 5
+2020-05-08 16:23:53.369 INFO generate_model - run: Generating ROC auc plot and computing feature importances...
+2020-05-08 16:24:05.066 INFO generate_model - run: Saving ROC AUC plot in C:\Users\Carlos\Downloads\radiomic_extraction\pdf\figures\roc-curve.png...
+2020-05-08 16:24:05.130 INFO generate_model - run: Generating feature importances plot...
+2020-05-08 16:24:05.294 INFO generate_model - run: Saving feature importances plot in C:\Users\Carlos\Downloads\radiomic_extraction\pdf\figures\feat-rel.png...
+2020-05-08 16:24:05.345 INFO generate_model - run: Generating pdf summary...
+2020-05-08 16:24:06.126 INFO generate_model - run: Pdf summary generated in out.pdf...
